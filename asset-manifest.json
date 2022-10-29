@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ithillel_dz28/static/css/main.4d0e52cb.css",
+    "main.js": "/ithillel_dz28/static/js/main.284760b1.js",
+    "static/js/787.f2a729de.chunk.js": "/ithillel_dz28/static/js/787.f2a729de.chunk.js",
+    "index.html": "/ithillel_dz28/index.html",
+    "main.4d0e52cb.css.map": "/ithillel_dz28/static/css/main.4d0e52cb.css.map",
+    "main.284760b1.js.map": "/ithillel_dz28/static/js/main.284760b1.js.map",
+    "787.f2a729de.chunk.js.map": "/ithillel_dz28/static/js/787.f2a729de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d0e52cb.css",
+    "static/js/main.284760b1.js"
+  ]
+}
